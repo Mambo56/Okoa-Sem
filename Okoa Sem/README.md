@@ -1,4 +1,4 @@
-# Welcome to the Assessment Generator by Lyzr!
+# Welcome to the Okoa semester na Lyzr!
 
 ![Lyzr Logo](./logo/lyzr-logo.png)
 
